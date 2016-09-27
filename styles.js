@@ -22,7 +22,7 @@ export const sheetStyle = StyleSheet.create({
 	bd: {
 		flex: 1,
 		alignSelf: 'flex-end',
-		backgroundColor: '#e5e5e5'
+		backgroundColor: 'transparent'
 	},
 	title: {
 		height: 40,
