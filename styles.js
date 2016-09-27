@@ -42,12 +42,12 @@ export const btnStyle = StyleSheet.create({
 	wrapper: {
 		height: 50,
 		marginTop: hairlineWidth,
-		alignItems: 'center',
 		justifyContent: 'center',
 		backgroundColor: '#fff'
 	},
 	title: {
-		fontSize: 18
+		fontSize: 18,
+		textAlign: 'center',
 	}
 });
 
